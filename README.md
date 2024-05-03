@@ -1,7 +1,7 @@
 ## **Real-Time Face Emotion Detection**
 
 
-- This project implements real-time facial emotion detection using the Deep CNN and OpenCV. It captures video from the webcam, detects faces, and predicts the emotions associated with each face. The emotion labels are displayed on the frames in real-time.
+- This project implements real-time facial emotion detection using the Deep CNN and OpenCV, Flask. It captures video from the webcam, detects faces, and predicts the emotions associated with each face. The emotion labels are displayed on the frames in real-time.
 - Aims to classify the emotion on a person's face into one of seven categories, using deep convolutional neural networks.
 - The dataset consists of 48x48 pixel grayscale images of faces. Each face is classified based on the emotion shown in the facial expression into one of seven categories (0=Angry, 1=Disgust, 2=Fear, 3=Happy, 4=Sad, 5=Surprise, 6=Neutral).
 
